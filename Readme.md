@@ -8,4 +8,7 @@
 -Desde la tercera pagina podras apreciar algun efecto que le incorpore con el :hover :D
 -Espero sea del agrado a tu vista los colores que le intruje, no me gusta ser tan llamativo ecepto en las fotos :P
 
+-Ahora si no quieres instalar Live SErver en tu VS solo abre el archivo en index desde la carpeta o al abrirlo
+con el VS presiona F5 en inde.html
+
 # Aún aprendiendo para ser un buen icono en la Programación 💻💼
