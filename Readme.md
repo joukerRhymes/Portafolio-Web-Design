@@ -11,4 +11,6 @@
 -Ahora si no quieres instalar Live SErver en tu VS solo abre el archivo en index desde la carpeta o al abrirlo
 con el VS presiona F5 en inde.html
 
+-también pueden ver la página en la nube por este enlace [https://papaya-florentine-4a4c60.netlify.app/]
+
 # Aún aprendiendo para ser un buen icono en la Programación 💻💼
